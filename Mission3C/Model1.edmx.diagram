@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="92d9a3aed3dc4c58877ba9165796c611" Name="Diagram1">
+        <EntityTypeShape EntityType="mission3Model.famille" Width="1.5" PointX="0.75" PointY="9.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="mission3Model.medecin" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="mission3Model.medicament" Width="1.5" PointX="3" PointY="9" IsExpanded="true" />
+        <EntityTypeShape EntityType="mission3Model.offrir" Width="1.5" PointX="5.25" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="mission3Model.rapport" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="mission3Model.visiteur" Width="1.5" PointX="0.75" PointY="4.875" IsExpanded="true" />
+        <AssociationConnector Association="mission3Model.medicament_fk" ManuallyRouted="false" />
+        <AssociationConnector Association="mission3Model.rapport_fk2" ManuallyRouted="false" />
+        <AssociationConnector Association="mission3Model.offrir_fk2" ManuallyRouted="false" />
+        <AssociationConnector Association="mission3Model.offrir_fk1" ManuallyRouted="false" />
+        <AssociationConnector Association="mission3Model.rapport_fk1" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

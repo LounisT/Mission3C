@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <id>27</id>
+    <Date>03/10/2016 00:00:00</Date>
+    <Motif>Visite annuelle</Motif>
+    <Bilan>Pas très aimable</Bilan>
+    <idVisiteur>b25</idVisiteur>
+  </Table1>
+</NewDataSet>

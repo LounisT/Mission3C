@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Lounis\.Rider2019.1\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Lounis\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Lounis\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Mission3C.1958241271.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Lounis\source\repos\Mission3C" t="IncludeFlat">
+      <e p="Mission3C" t="IncludeRecursive">
+        <e p="AjouterVisiteur.cs" t="Include" />
+        <e p="AjouterVisiteur.Designer.cs" t="Include" />
+        <e p="AjouterVisiteur.resx" t="Include" />
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="famille.cs" t="Include" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="medecin.cs" t="Include" />
+        <e p="medicament.cs" t="Include" />
+        <e p="Mission3C.csproj" t="IncludeRecursive" />
+        <e p="Model1.Context.cs" t="Include" />
+        <e p="Model1.Context.tt" t="Include" />
+        <e p="Model1.cs" t="Include" />
+        <e p="Model1.Designer.cs" t="Include" />
+        <e p="Model1.edmx" t="Include" />
+        <e p="Model1.edmx.diagram" t="Include" />
+        <e p="Model1.tt" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="offrir.cs" t="Include" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="DataSources" t="Include">
+            <e p="visiteur.datasource" t="Include" />
+          </e>
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="rapport.cs" t="Include" />
+        <e p="SupprimerVisiteur.cs" t="Include" />
+        <e p="SupprimerVisiteur.Designer.cs" t="Include" />
+        <e p="SupprimerVisiteur.resx" t="Include" />
+        <e p="visiteur.cs" t="Include" />
+        <e p="Visiteurs.cs" t="Include" />
+        <e p="Visiteurs.Designer.cs" t="Include" />
+        <e p="Visiteurs.resx" t="Include" />
+      </e>
+      <e p="Mission3C.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
